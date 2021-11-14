@@ -2,7 +2,7 @@
 - 👀 I’m interested in distributed system and Java web development.
 - 🌱 I’m currently learning Java web development, security and cloud computing
 - 📫 How to reach me zhaozetong@htomail.com
-- (Linkedin)[https://www.linkedin.com/in/zetong-zhao-3286b71b8/]
+- [Linkedin](https://www.linkedin.com/in/zetong-zhao-3286b71b8/)
 
 <!---
 Agachily/Agachily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
