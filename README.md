@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zhao Zetong, a master student in Aalto University, major in Security and Cloud Computing (Erasmus Mundus Program)
+- 👋 Hi, I’m Zhao Zetong, a master student in Aalto University, majoring in Security and Cloud Computing (Erasmus Mundus Program)
 - 👀 I’m interested in distributed system and cybersecurity.
 - 🌱 I’m currently learning Java web development, security and cloud computing
 - 📫 How to reach me zhaozetong@htomail.com
