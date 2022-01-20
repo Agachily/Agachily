@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Zhao Zetong, a master student in Aalto University, majoring in Security and Cloud Computing (Erasmus Mundus Program)
 - 👀 I’m interested in distributed system and cybersecurity.
-- 🌱 I’m currently learning Java web development, security and cloud computing
-- 📫 How to reach me zhaozetong@htomail.com
+- 🌱 I’m currently learning security and cloud computing
+- 📫 How to reach me zhaozetong@htomail.com / zetong.zhao@aalto.fi
+- I used to work as a Software Test Engineer at NSFOCUS
 - [Linkedin](https://www.linkedin.com/in/zetong-zhao-3286b71b8/)
 - View my BearMaps application at [here](https://github.com/Agachily/Bear-Maps), my Questions Billboard application at [here](https://github.com/Agachily/Web-Software-Development/tree/master/Project%202), and my secure NFC application at [here](https://github.com/Agachily/Network-Security-Project1).
 
