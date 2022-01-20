@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Zhao Zetong, a master student at Aalto University, majoring in Security and Cloud Computing (Erasmus Mundus SECCLO Program). I finished my bachelour study at University of Electronic Science and Technology of China.
+- View my CV [herre](https://github.com/Agachily/Agachily/blob/master/Zetong-Zhao-CV.pdf)
 - 👀 I’m interested in software testing and cybersecurity.
 - 🌱 I’m currently learning security and cloud computing
 - 📫 How to reach me zhaozetong@htomail.com / zetong.zhao@aalto.fi
