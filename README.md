@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Zhao Zetong, a master student at Aalto University, majoring in Security and Cloud Computing (Erasmus Mundus SECCLO Program). 
 - I was granted the Erasmus Mundus Scholarship (49000€, 19 out of 546 applicants).
 - I finished my bachelour study at University of Electronic Science and Technology of China.
+- Currently, I am working as software engineer at [Enable Banking Oy](https://enablebanking.com/)
 - View my CV [here](https://github.com/Agachily/Agachily/blob/master/Zetong-Zhao-CV.pdf).
 - 👀 I’m interested in database and distributed system.
 - 🌱 I’m currently learning cloud computing and distributed system.
