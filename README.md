@@ -4,8 +4,8 @@
 - Currently, I am working as a software engineer at [Enable Banking Oy](https://enablebanking.com/)
 - And I used to work as a Software Test Engineer at [NSFOCUS](https://nsfocusglobal.com/)
 - [Linkedin](https://www.linkedin.com/in/zetong-zhao-3286b71b8/)
-- Some of my projects to present:
-  - [Hoaxify, a full stack social application](https://github.com/Agachily/tdd-spring-reacet)
+- ***Some of my projects to present***:
+  - [Hoaxify]((https://github.com/Agachily/tdd-spring-reacet)), a full stack social application
 
 <!---
 Agachily/Agachily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
