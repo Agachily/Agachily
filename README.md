@@ -4,8 +4,11 @@
 - Currently, I am working as a software engineer at [Enable Banking Oy](https://enablebanking.com/) and I used to work as a Software Test Engineer at [NSFOCUS](https://nsfocusglobal.com/)
 - [Linkedin](https://www.linkedin.com/in/zetong-zhao-3286b71b8/)
 - ***Some of my projects to present***:
-  - [Hoaxify](https://github.com/Agachily/tdd-spring-reacet), a full stack social appl.ication.
+  - [Hoaxify](https://github.com/Agachily/tdd-spring-reacet), a full stack social application (React, Java, Spring).
+  - [Aalto-Forum](https://github.com/Agachily/aalto-forum), a forum application (Java, Spring, Thymeleaf).
   - [Sweetcam](https://github.com/Agachily/sweetcam), a honeypot design for IP camera.
+  - [Fullstack-polling-app](https://github.com/Agachily/fullstack-polling-app), a fullstack polling app (React, Java, Spring)
+  - [Question-Board](https://github.com/Agachily/web-software-dev/tree/master/Project-2), a application for creating and ansering mutiple choice questions (Deno.JS, Oak, Eta).
 
 <!---
 Agachily/Agachily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
