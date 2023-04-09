@@ -8,7 +8,7 @@
   - [Aalto-Forum](https://github.com/Agachily/aalto-forum), a forum application (Java, Spring, Thymeleaf).
   - [Sweetcam](https://github.com/Agachily/sweetcam), a honeypot design for IP camera.
   - [Fullstack-polling-app](https://github.com/Agachily/fullstack-polling-app), a fullstack polling app (React, Java, Spring)
-  - [Question-Board](https://github.com/Agachily/web-software-dev/tree/master/Project-2), a application for creating and ansering mutiple choice questions (Deno.JS, Oak, Eta).
+  - [Question-Board](https://github.com/Agachily/web-software-dev/tree/master/Project-2), a application for creating and ansering mutiple choice questions (Deno.js, Oak, Eta).
 
 <!---
 Agachily/Agachily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
