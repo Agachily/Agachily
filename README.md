@@ -1,8 +1,8 @@
 ## Personal Intruductions
 Something about me:
-- 👋 Hi, I’m Zhao Zetong, a master student at Aalto University and Techinque Univerusity of Denmark. 
+- 👋 Hi, I’m Zhao Zetong, a master student at ***Aalto University*** and ***Techinque Univerusity of Denmark***. 
 - My majoring is Security and Cloud Computing (Erasmus Mundus SECCLO Program). 
-- I finished my bachelour study at University of Electronic Science and Technology of China.
+- I finished my bachelour study at ***University of Electronic Science and Technology of China***.
 
 ### 👻 Languages
 ![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
