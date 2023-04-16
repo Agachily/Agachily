@@ -1,9 +1,16 @@
 ## Personal Intruductions
-👋 Hi, I’m Zhao Zetong, a master student from Aalto University and Techinque University of Denmark, majoring in Security and Cloud Computiing.
-
-- 👋 Hi, I’m Zhao Zetong, a master student at Aalto University, majoring in Security and Cloud Computing (Erasmus Mundus SECCLO Program). 
-- I was granted the Erasmus Mundus Scholarship (19 out of 546 applicants).
+Something about me:
+- 👋 Hi, I’m Zhao Zetong, a master student at Aalto University and Techinque Univerusity of Denmark. 
+- My majoring is Security and Cloud Computing (Erasmus Mundus SECCLO Program). 
 - I finished my bachelour study at University of Electronic Science and Technology of China.
+
+### 👻 Languages
+![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-JavaScript-FE2857?style=flat&logo=JavaScript%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/-Haxe-087CFA?style=flat&logo=Haxe&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
+
+
 - Currently, I am working as a software engineer at [Enable Banking Oy](https://enablebanking.com/) and I used to work as a Software Test Engineer at [NSFOCUS](https://nsfocusglobal.com/)
 - [Linkedin](https://www.linkedin.com/in/zetong-zhao-3286b71b8/)
 - ***Some of my projects to present***:
