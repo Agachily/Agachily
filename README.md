@@ -22,7 +22,7 @@ Something about me:
 | [Aalto-Forum](https://github.com/Agachily/aalto-forum) | A forum application (Java, Spring, Thymeleaf). |
 | [Sweetcam](https://github.com/Agachily/sweetcam) |   A honeypot designed for IP camera.  |
 | [Fullstack-polling-app](https://github.com/Agachily/fullstack-polling-app) |  A fullstack polling app (React, Java, Spring).  |
-| [Question-Board](https://github.com/Agachily/web-software-dev/tree/master/Project-2) |  A  application for creating and ansering mutiple choice questions (Deno.js, Oak,🔧 Eta).  |
+| [Question-Board](https://github.com/Agachily/web-software-dev/tree/master/Project-2) |  A  application for creating and ansering mutiple choice questions (Deno.js, Oak, Eta).  |
 | [Printing System](https://github.com/secclo-dtu-21/datasec) |  This is the assignment of DTU data security course, in access_control_lab and authentication lab, I designed a prting system with user control mechanism. (Java, Junit).  |
 
 
