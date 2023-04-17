@@ -11,7 +11,7 @@ Something about me:
 ![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
 
 ### ⛩️ Working Experience
-- Currently, I am working as a software engineer at [Enable Banking Oy](https://enablebanking.com/), helping to build cuting-edge Fintech with the assistance of open banking power!
+- Currently, I am working as a software engineer at [Enable Banking Oy](https://enablebanking.com/), helping to build cuting-edge Fintech services with the assistance of open banking power!
 - And I used to work as a Software Test Engineer at [NSFOCUS](https://nsfocusglobal.com/)
 - [Linkedin](https://www.linkedin.com/in/zetong-zhao-3286b71b8/)
 
